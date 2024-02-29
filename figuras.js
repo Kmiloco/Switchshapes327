@@ -26,3 +26,4 @@ switch(opcion){
     alert("Opcion no disponible");
     break;
 }
+/* Codigo para encontrar areas de figuras*/
